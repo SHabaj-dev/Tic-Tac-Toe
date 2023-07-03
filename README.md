@@ -5,7 +5,7 @@ Sure! Here's an example of a `README.md` file for a Tic Tac Toe Android game:
 This is a simple Tic Tac Toe game for Android devices. It allows two players to play the classic
 game on their mobile devices.
 
-[click here]() to try!
+[click here](https://github.com/SHabaj-dev/Tic-Tac-Toe/blob/main/Tic-Tac-Toe.apk) to try!
 
 ## Features
 
@@ -16,10 +16,13 @@ game on their mobile devices.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-![Screenshot 4](screenshots/screenshot4.png)
+<!-- Screenshots -->
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="300" />
+  <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="300" />
+  <img src="screenshots/screenshot3.png" alt="Screenshot 3" width="300" />
+  <img src="screenshots/screenshot4.png" alt="Screenshot 4" width="300" />
+</div>
 
 ## Getting Started
 
@@ -56,8 +59,6 @@ The Tic Tac Toe Android game is open-source and licensed under the [MIT License]
 ## Acknowledgements
 
 - The game was inspired by the classic Tic Tac Toe game.
-- Thanks to [OpenAI](https://openai.com) for providing the language model used to generate this
-  README template.
 
 ---
 
